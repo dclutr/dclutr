@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...
     cmake
     webgl
-    srb2
-    srb2 kart
+    ruby
 - 🌱 I’m currently learning ...
     elm
 - 💞️ I’m looking to collaborate on ...
