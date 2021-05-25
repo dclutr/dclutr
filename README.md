@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dclutr
 - 👀 I’m interested in ...
-    cmake
-    webgl
-    ruby
+-   sdl
+    vulkan
 - 🌱 I’m currently learning ...
     elm
 - 💞️ I’m looking to collaborate on ...
