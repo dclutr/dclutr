@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dclutr
-- 👀 I’m interested in ... sdl vulkan
+- 👀 I’m interested in ... sdl vulkan linux
 - 🌱 I’m currently learning ...
     elm
 - 💞️ I’m looking to collaborate on ...
