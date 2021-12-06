@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @dclutr
-- 👀 I’m interested in ... sdl vulkan linux
-- 🌱 I’m currently learning ...
-    elm
-- 💞️ I’m looking to collaborate on ...
-    hopefully something someday
+- 👀 I’m interested in JavaScript, Cross platform apps, Pixel art, 3D Platformers
+- 🌱 I’m currently learning nothing in particular
+- 💞️ I’m looking to collaborate on nothing in particular
 - 📫 How to reach me ...
     https://www.linkedin.com/in/akshansh-manchanda-9aa37a3a/
 <!---
