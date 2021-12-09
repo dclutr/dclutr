@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dclutr
-- 👀 I’m interested in JavaScript, Cross platform apps, Pixel art, 3D Platformers
+- 👀 I’m interested in JavaScript, Rust, Pixel art
 - 🌱 I’m currently learning nothing in particular
 - 💞️ I’m looking to collaborate on nothing in particular
 - 📫 How to reach me ...
